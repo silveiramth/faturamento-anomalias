@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+ 
+# Cache do Python
+__pycache__/
+*.pyc
+ 
+# MLflow
+mlruns/
+mlflow.db
+ 
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+ 
+# VS Code
+.vscode/
